@@ -20,7 +20,7 @@ website:
 format:
   html:
     theme:
-      light: [yeti, custom.scss]
+      light: [vapor, custom.scss]
     css: styles.css
     toc: true
 
