@@ -8,6 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - href: posts.qmd
+        text: Blog
+      - href: docs/links/index.qmd
+        text: Links
     right:
       - icon: twitter
         href: https://twitter.com/kowandtoilet
@@ -20,7 +23,7 @@ website:
 format:
   html:
     theme:
-      light: [vapor, custom.scss]
+      light: [vapor]
     css: styles.css
     toc: true
 
